@@ -1,0 +1,9 @@
+1.github account
+2.empty repo
+3.local system
+	git config --global user.name "Ajinkya3691"
+	git config --global user.email "ajinkya.mathurkar@gamil.com"
+4.gut push -u origin master
+	4.1 username? -> Ajinkya3691
+	4.2 password? ->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
+
